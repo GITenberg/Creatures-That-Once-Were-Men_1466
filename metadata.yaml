@@ -1,0 +1,46 @@
+_repo: Creatures-That-Once-Were-Men_1466
+contributor:
+  author_of_introduction:
+    agent_name: Chesterton, G. K. (Gilbert Keith)
+    aliases:
+    - Chesterton, Gilbert Keith
+    - Chesterton, Gilbert K. (Gilbert Keith)
+    birthdate: 1874
+    deathdate: &id001 1936
+    gutenberg_agent_id: '80'
+    url: http://www.gutenberg.org/2009/agents/80
+    wikipedia: http://en.wikipedia.org/wiki/G._K._Chesterton
+  translator:
+    agent_name: Shirazi, J. K. M.
+    alias: Shirazi, J. M.
+    gutenberg_agent_id: '42016'
+    url: http://www.gutenberg.org/2009/agents/42016
+creator:
+  author:
+    agent_name: Gorky, Maksim
+    aliases:
+    - Горький, Максим
+    - Peshkov, Alexey Maximiovich
+    - Gorky, Maxim
+    birthdate: 1868
+    deathdate: *id001
+    gutenberg_agent_id: '348'
+    url: http://www.gutenberg.org/2009/agents/348
+    wikipedia: http://en.wikipedia.org/wiki/Maxim_Gorky
+description: ''
+gutenberg_issued: '1998-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1466'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PG'
+- !lcsh 'Short stories, Russian -- Translations into English'
+- !lcsh 'Fiction'
+tableOfContents: Creatures that once were men -- Twenty-six men and a girl -- Chelkash
+  -- My fellow-traveller -- On a raft.
+title: Creatures That Once Were Men
+url: http://www.gutenberg.org/ebooks/1466
